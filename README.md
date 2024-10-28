@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TermWave</h1>
-<h3 align="center">I am a Python and HTML programmer.</h3>
+<h3 align="center">I am Ultimate.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
