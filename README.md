@@ -5,6 +5,13 @@
 <p align="left">
 <a href="https://discord.gg/tZQTSSyqVw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nA6cpGmejn" height="30" width="40" /></a>
 </p>
+## Donate Litecoin:
+<p align="center">
+  <img src="https://crypto.com/static/logo_litecoin.png" alt="Litecoin Logo" width="60">
+</p>
+<p align="center">
+  <strong>Donate Litecoin:</strong> <code>ltc1qcuc2ufpvylaas7s6prdhsp97gc8dvp9rg5a28j</code>
+</p>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1188712861510422549)](https://discord.com/users/1188712861510422549)
 ## Visitors:
