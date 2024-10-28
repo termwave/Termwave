@@ -5,10 +5,7 @@
 <p align="left">
 <a href="https://discord.gg/tZQTSSyqVw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nA6cpGmejn" height="30" width="40" /></a>
 </p>
-## Donate:
-<p align="left">
-  <img src="https://cdn.discordapp.com/emojis/1275759800122212362.webp?size=48" alt="Litecoin Logo" width="60">
-</p>
+
 <p align="left">
   <strong>Donate Litecoin:</strong> <code>ltc1qcuc2ufpvylaas7s6prdhsp97gc8dvp9rg5a28j</code>
 </p>
