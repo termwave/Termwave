@@ -15,13 +15,6 @@
 <p align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=termwave&countColorcountColor&countColor=%23FF0000" alt="Profile Views">
 </p>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/termwave?color=FF0000&style=for-the-badge&logo=github&label=Follow" alt="Profile Views">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/stars/termwave?color=FF0000&style=for-the-badge&logo=github&label=Star" alt="Profile Views">
-</p>
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]([https://discord.gg/](https://discord.gg/tZQTSSyqVw)) 
