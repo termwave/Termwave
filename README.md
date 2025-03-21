@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  <strong>Ł Litecoin:</strong> <code>ltc1qvu4ltmrs3e557tr0755t7pccge42zrkq0e203f</code>
+  <strong>Ł Litecoin:</strong> <code>LSLP6qsQJf2GcrfUe67nHPC4YUszr79Mp8</code>
 </p>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1188712861510422549)](https://discord.com/users/1188712861510422549)
