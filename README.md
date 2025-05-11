@@ -46,14 +46,6 @@
 
 ---
 
-### 🏆 Underground Trophies:
-![](https://github-profile-trophy.vercel.app/?username=termwave&theme=algolia&margin-w=15)
-
----
-
-### 🧠 Top Ops:
-![](https://github-contributor-stats.vercel.app/api?username=termwave&limit=5&theme=dark)
-
 ---
 
 ### 🧍 Visitor Counter:
