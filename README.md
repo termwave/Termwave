@@ -39,10 +39,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=termwave&layout=compact&theme=tokyonight)
 
 ---
-
----
-
-### 🧍 Visitor Counter:
-<p align="center">
-  <img src="https://profile-counter.glitch.me/termwave/count.svg" />
-</p>
