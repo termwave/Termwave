@@ -1,9 +1,5 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&vCenter=true&multiline=true&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+TermWave.;I+Create+Ultimate+Tools.+" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&vCenter=true&multiline=true&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Termwave.;I+Create+Ultimate+Tools.+" alt="Typing SVG" /></h1>
 <h3 align="center" style="color: #39ff14;">👨‍💻 Coded in the shadows. Forged for the elite.</h3>
-
-<p align="center">
-  <img src="https://media.tenor.com/xUPIfK1QQCMAAAAC/hacker-anonymous.gif" width="300" />
-</p>
 
 ---
 
@@ -13,9 +9,7 @@
 ---
 
 ### 📡 Connect with the Matrix:
-[![Discord](https://img.shields.io/badge/Discord-TermWave%20HQ-%237289DA?logo=discord&logoColor=white)](https://discord.gg/tZQTSSyqVw)
-[![GitHub](https://img.shields.io/badge/GitHub-TermWave-%23121011?logo=github&logoColor=white)](https://github.com/termwave)
-
+[![Discord](https://img.shields.io/badge/Discord-Termwave%20HQ-%237289DA?logo=discord&logoColor=white)](https://discord.gg/tZQTSSyqVw)
 ---
 
 ### 🧬 Donate to Support:
