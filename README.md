@@ -14,7 +14,7 @@
 
 ### 🧬 Donate to Support:
 **Litecoin Address:**  
-<code>LQSkiqeKzkbJ4k3rfBXkJNtrrUSapKTKYn</code>
+<code></code>
 
 ---
 
