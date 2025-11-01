@@ -9,7 +9,7 @@
 ---
 
 ### 📡 Connect with the Matrix:
-[![Discord](https://img.shields.io/badge/Discord-Termwave%20HQ-%237289DA?logo=discord&logoColor=white)](https://discord.gg/tZQTSSyqVw)
+[![Discord](https://img.shields.io/badge/Discord-Termwave%20HQ-%237289DA?logo=discord&logoColor=white)](https://termwave.in/mfxe)
 ---
 
 ### 🧬 Donate to Support:
